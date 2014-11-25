@@ -1,6 +1,6 @@
 {
   "name": "swarm-restapi",
-  "version": "0.3.23",
+  "version": "0.3.24",
   "description": "REST API for SwarmJS",
   "main": "index.js",
   "scripts": {
