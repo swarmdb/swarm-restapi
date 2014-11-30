@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abalandin/swarm-restapi.git"
+    "url": "https://github.com/swarmjs/swarm-restapi.git"
   },
   "keywords": [
     "swarmjs",
@@ -20,9 +20,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/abalandin/swarm-restapi/issues"
+    "url": "https://github.com/swarmjs/swarm-restapi/issues"
   },
-  "homepage": "https://github.com/abalandin/swarm-restapi",
+  "homepage": "https://github.com/swarmjs/swarm-restapi",
   "dependencies": {
     "async": "^0.9.0",
     "body-parser": "^1.9.3",
